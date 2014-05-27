@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Banking</string>
+    <string name="btn_send_sms">Send SMS</string>
+    <string name="btn_analyse_sms">Analyze SMS</string>
+    <string name="general_btn_ok">OK</string>
+</resources>

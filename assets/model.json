@@ -1,0 +1,13 @@
+
+{"model":[
+		{"name":"food", "samples":["alye parusa", "diksi", "sedmoy kontinent", "perekrestok", "miratorg", "supermarket", "market", "gipermarket", "gipermarket nash", "aushan", "metro", "coffee", "kofeynaya kantata", "pyaterochka"]},
+		{"name":"restaurants", "samples":["mcdonalds", "burger king", "kafe", "cafe", "resaurant", "haus", "restoran", "kask", "subway", "picca", "shawarma"]},
+		{"name":"farmacy", "samples":["farmamed", "apteka", "lekar", "medical"]},
+		{"name":"atm", "samples":["atm", "atm", "atm", "bankomat", "bank", "nord", "star"]},
+		{"name":"travel", "samples":["www.rzd.ru", "travel", "avia", "aviasales", "onetwotrip"]},
+		{"name":"communication", "samples":["skype", "telecom", "mobile","mipt-telecom"]},
+		{"name":"e_money", "samples":["paypal"]},
+		{"name":"entertainment", "samples":["cinema", "kino"]},
+		{"name":"wear", "samples":["h", "m", "banana"]}
+	]
+}
